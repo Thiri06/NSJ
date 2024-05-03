@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Application",
+            "request": "launch",
+            "mainClass": "src.Application",
+            "projectName": "Java-VSCode_905f3d18"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Java-VSCode_905f3d18"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "Java-VSCode_905f3d18"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java-VSCode_905f3d18"
+        },
+        {
+            "type": "java",
+            "name": "NSD_Demo1",
+            "request": "launch",
+            "mainClass": "NSD_Demo1",
+            "projectName": "Java-VSCode_905f3d18"
+        },
+        {
+            "type": "java",
+            "name": "NorthExample2",
+            "request": "launch",
+            "mainClass": "NorthExample2",
+            "projectName": "Java-VSCode_905f3d18"
+        },
+        {
+            "type": "java",
+            "name": "App(1)",
+            "request": "launch",
+            "mainClass": "src.App",
+            "projectName": "Java-VSCode_905f3d18"
+        }
+    ]
+}
